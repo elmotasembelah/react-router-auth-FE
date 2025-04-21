@@ -1,4 +1,4 @@
-git p# Frontend: Auth UI with React, Vite, Tailwind, and Zustand
+# Frontend: Auth UI with React, Vite, Tailwind, and Zustand
 
 A simple authentication frontend built with React + Vite, using Tailwind CSS for styling, Zustand for state management, and Axios for API communication. This app works with the backend NestJS auth API.
 
